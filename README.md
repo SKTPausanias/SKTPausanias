@@ -23,4 +23,4 @@ Computer Science student at [42Madrid](https://www.42.fr/42-network/).
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SKTPausanias&show_icons=true&theme=gotham" alt="SKTPausanias" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SKTPausanias&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InigoRomero&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
