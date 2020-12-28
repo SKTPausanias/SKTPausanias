@@ -4,12 +4,11 @@
   <img align="left" alt="Miguel's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<a href="mailto:miguellaplanamarin@gmail.com"><img alt="mail" width="26px" src="https://simpleicons.org/icons/gmail.svg" /></a>
-
 Computer Science student at [42Madrid](https://www.42.fr/42-network/).
 
 - 🔭 I’m currently studying **Computer Science** at 42Madrid
 - 🌱 I’m currently learning **Machine learning and AI**
+- 📫 Contact me -> miguellaplanamarin@gmail.com 
 
 **Languages and Tools:**  
 
