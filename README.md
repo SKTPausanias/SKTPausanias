@@ -8,8 +8,8 @@
 
 Computer Science student at [42Madrid](https://www.42.fr/42-network/).
 
+- 🔭 I’m currently studying **Computer Science** at 42Madrid
 - 🌱 I’m currently learning **Machine learning and AI**
-- 📫 Contact me: ;
 
 **Languages and Tools:**  
 
